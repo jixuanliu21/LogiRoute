@@ -4,6 +4,10 @@ A vehicle routing application built with Python, OR-Tools, and Streamlit. It sol
 
 The application supports both synthetic delivery scenarios and road networks obtained from OpenStreetMap.
 
+## Demo
+
+![LogiRoute route visualisation](figures/logiroute_demo.png)
+
 ## Features
 
 - **Route optimisation:** Nearest Neighbour, 2-opt, and Google OR-Tools for capacity-constrained vehicle routing.
