@@ -1,5 +1,7 @@
 # LogiRoute
 
+**[Live Demo](https://logiroute-jixuanliu.streamlit.app/) | [Source Code](https://github.com/jixuanliu21/LogiRoute)**
+
 A vehicle routing application built with Python, OR-Tools, and Streamlit. It solves capacity-constrained delivery routing problems (CVRP) and compares different approaches to route planning.
 
 The application supports both synthetic delivery scenarios and road networks obtained from OpenStreetMap.
