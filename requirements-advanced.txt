@@ -1,0 +1,5 @@
+-r requirements.txt
+osmnx>=2.0,<3
+networkx>=3.2,<4
+torch>=2.5,<3
+scikit-learn>=1.5,<2
